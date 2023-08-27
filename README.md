@@ -1,4 +1,13 @@
-### Hi there 👋
+![Github banner](https://github.com/edf1101/edf1101/assets/96292907/0ce94e61-919a-45e6-adaa-d95b6248bf6e)
+
+### Hi there 
+I'm currently doing BSci Computer Science at the University of Exeter.
+
+### Skills/ Lanugages
+- Arduino
+- Python
+- Unity
+
 
 <!--
 **edf1101/edf1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
