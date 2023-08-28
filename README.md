@@ -6,7 +6,7 @@ I'm Ed, I'm currently studying doing BSci Computer Science at the University of 
 ## Projects
 - Multiple published games
 - Ecosystem Simulations
-- Sporting data collection and analysis systems
+- Sporting data analysis and training systems
 - Advanced Wifi Laser Tag system
 - Complex Low-poly terrain generation systems
 
