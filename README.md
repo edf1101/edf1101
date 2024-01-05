@@ -4,7 +4,7 @@
 I'm Ed, I'm currently studying doing BSci Computer Science at the University of Exeter.
 
 ## Projects
-- Multiple published games
+- Multiple games
 - Ecosystem Simulations
 - Sporting data analysis and training systems
 - Advanced Wifi Laser Tag system
@@ -16,18 +16,5 @@ I'm Ed, I'm currently studying doing BSci Computer Science at the University of 
 - Python
 - Unity (C# & HLSL)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edf1101&theme=transparent&layout=compact)](https://github.com/edf1101/github-readme-stats)
 
-<!--
-**edf1101/edf1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
