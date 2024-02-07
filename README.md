@@ -1,6 +1,6 @@
 ![Github banner](https://github.com/edf1101/edf1101/assets/96292907/0ce94e61-919a-45e6-adaa-d95b6248bf6e)
 
-### Hi there!
+### Hey
 I'm Ed, I'm currently studying doing BSci Computer Science at the University of Exeter.
 
 ## Projects
