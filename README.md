@@ -14,8 +14,8 @@ I'm Ed, I'm currently studying doing BSci Computer Science at the University of 
 ## Skills/ Lanugages
 - Python
 - C# & HLSL
+- C++
 - Java
-- Arduino (C++)
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edf1101&theme=transparent&layout=compact)](https://github.com/edf1101/github-readme-stats)
