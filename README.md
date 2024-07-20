@@ -4,11 +4,11 @@
 I'm Ed, I'm currently studying doing BSci Computer Science at the University of Exeter.
 
 ## Projects
-- Multiple games
-- Ecosystem Simulations
-- Sporting data analysis and training systems
-- Advanced Wifi Laser Tag system
-- Complex Low-poly terrain generation systems
+- [Multiple games](https://edf1101.itch.io/)
+- [Ecosystem Simulations](https://github.com/edf1101/Ecosystem-Simulation)
+- [Sporting data analysis and training systems](https://github.com/edf1101/GPX-Analysis)
+- [Advanced mesh-networked Laser Tag system](https://github.com/edf1101/LaserTag)
+- [Complex Low-poly terrain generation systems](https://github.com/edf1101/TerrainGeneration)
 
 
 ## Skills/ Lanugages
